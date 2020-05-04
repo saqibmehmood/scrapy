@@ -1,6 +1,6 @@
-print("no")
+print("noyesyes")
 
-print("222222222")
+print("22222222255552")
 
 def sum(a, b):
     return a + b
