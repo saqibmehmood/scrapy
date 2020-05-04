@@ -1,3 +1,6 @@
 print("no")
 
-print("000000000000")
+print("222222222")
+
+def sum(a, b):
+    return a + b
